@@ -1,0 +1,12 @@
+Take an input for the max stars and print the pattern 
+ex: 
+4
+
+
+* 
+* * 
+* * * 
+* * * * 
+* * * 
+* * 
+*

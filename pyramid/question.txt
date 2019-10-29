@@ -1,0 +1,8 @@
+Print full Triangle pyramid using stars 
+            *   
+           *  *   
+          *  *  *   
+         *  *  *  *   
+        *  *  *  *  *   
+       *  *  *  *  *  *   
+      *  *  *  *  *  *  *   

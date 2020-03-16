@@ -1,2 +1,2 @@
 # Patterns
-Collection of different patterns printedusing Python
+Collection of different patterns printed using Python
